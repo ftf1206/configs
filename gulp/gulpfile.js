@@ -24,7 +24,6 @@
     var minify   = require('gulp-minify-css');
     // 画像圧縮
     var imageMin = require('gulp-imagemin');
-
 /* ======================================================================================= Tasks */
 
 gulp.task('babel', function() {
